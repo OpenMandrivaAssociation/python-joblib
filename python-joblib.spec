@@ -1,6 +1,6 @@
 Summary:	Lightweight pipelining with Python functions
 Name:		python-joblib
-Version:	1.3.2
+Version:	1.4.2
 Release:	1
 License:	BSD 3-Clause
 Group:		Development/Python
