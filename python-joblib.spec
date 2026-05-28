@@ -3,7 +3,7 @@
 Name:		python-joblib
 Summary:	Lightweight pipelining with Python functions
 Version:	1.5.3
-Release:	1
+Release:	2
 License:	BSD-3-Clause
 Group:		Development/Python
 URL:		https://pypi.org/project/joblib/
